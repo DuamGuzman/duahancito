@@ -2,7 +2,13 @@
   <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
 </p>
 
-
+<h1 align="center">Hola , me llamo Duan Guzman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
+<h4 align="center">Tengo 21 años y estoy en el 3ser año de mi carrera en ingeniería en informática </h4>
+<br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ My Skills
