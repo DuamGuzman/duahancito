@@ -1,7 +1,9 @@
-### Hi there 👋
+![https://github.com/duahancito] ([https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png](https://d1pc5hp1w29h96.cloudfront.net/magefan_blog/hero-what-is-ambient-computing.jpg))
 
 
 **duahancito/duahancito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
